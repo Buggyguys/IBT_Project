@@ -1,0 +1,7 @@
+clear/
+lib/
+contracts/ethereum/out/
+contracts/ethereum/lib/
+contracts/ethereum/cache/
+contracts/sui/build/
+

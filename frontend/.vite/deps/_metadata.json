@@ -1,0 +1,67 @@
+{
+  "hash": "97c84baa",
+  "configHash": "af524051",
+  "lockfileHash": "e9540534",
+  "browserHash": "40f5911a",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "cb773bee",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "698bafef",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e84fb81b",
+      "needsInterop": true
+    },
+    "@metamask/sdk-react": {
+      "src": "../../node_modules/@metamask/sdk-react/dist/esm/index.js",
+      "file": "@metamask_sdk-react.js",
+      "fileHash": "abf4cbd6",
+      "needsInterop": false
+    },
+    "@mysten/dapp-kit": {
+      "src": "../../node_modules/@mysten/dapp-kit/dist/esm/index.js",
+      "file": "@mysten_dapp-kit.js",
+      "fileHash": "f95919ce",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "f9235433",
+      "needsInterop": false
+    },
+    "@mysten/sui/client": {
+      "src": "../../node_modules/@mysten/sui/dist/esm/client/index.js",
+      "file": "@mysten_sui_client.js",
+      "fileHash": "48c3ac4e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WU2PXG2N": {
+      "file": "chunk-WU2PXG2N.js"
+    },
+    "chunk-KQRY3BVT": {
+      "file": "chunk-KQRY3BVT.js"
+    },
+    "chunk-O5DBXPPX": {
+      "file": "chunk-O5DBXPPX.js"
+    },
+    "chunk-W2OTF3E3": {
+      "file": "chunk-W2OTF3E3.js"
+    },
+    "chunk-5N7ZOTW6": {
+      "file": "chunk-5N7ZOTW6.js"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+export const SUI_PACKAGE_ID = "0xf7286c05bb42d1279bdefdfa62046dfac8dc560b39bb95ec4453553c327dc473";
+export const SUI_MODULE_NAME = "ibt";
+export const SUI_TREASURY_CAP_ID = "0x25bfd0d6b640d63494c70a944e698009a8a583b0a8d78e1bdd3b606d92a5a8e2";
+export const SUI_GAS_PAYMENT_ID = "0x95074571e282308dbcbd92ac75af8bbffe18ab4a47972c1889128e40cb912b9d";
+export const SUI_DIGEST = "HLTuPUFhgoUVXcDzRi1ujN4KFN245ivzYJsWhqZVRXvK";
+export const SUI_TRANSACTION_KIND = "Programmable";
+export const SUI_CREATED_OBJECT_ID = "0x25bfd0d6b640d63494c70a944e698009a8a583b0a8d78e1bdd3b606d92a5a8e2";
+export const SUI_PUBLISHED_MODULES = ["ibt"];
+export const SUI_SENDER_ADDRESS = "0xabca126a2c5316e81fe9c24dbe6c6eeb43e4f77817d30a5be350f19c56d63fc5";
+export const SUI_GAS_BUDGET = 200000000;
